@@ -14,7 +14,7 @@ Then you can decrement the value for how many times the user wants that part of 
 
 That's basically how it goes. 
 
-After testing the Pick 2 and etc.,  I realized I'd goofed up a little by just trying to generate a random number between 0 and X, like 0 and 100K for the pick 5. You can end up with a smaller number than the digits you're trying to pick.
+After testing the Pick 2 and etc.,  I realized I'd goofed up a little by just trying to generate a random number between 0 and X, like 0 and 100K for the pick 5. You can end up with a smaller number of digits than the digits you're trying to pick.
 
 It would be easier to generate numbers between 0 and 9 and concatenate them at the end. I'm going to fix that now.
 
