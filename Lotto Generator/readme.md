@@ -12,6 +12,12 @@ So I just do that for the 5 numbers - it's just a yes/no check on down the line.
 
 Then you can decrement the value for how many times the user wants that part of the program to run, and print out their numbers.
 
-That's basically how it goes. The pick 2, 3, 4, and 5 were easiest and they get done at the end. I could choose a "number of times to run" sort of input on those, but I wonder if that would be too many questions to ask someone.
+That's basically how it goes. 
+
+After testing the Pick 2 and etc.,  I realized I'd goofed up a little by just trying to generate a random number between 0 and X, like 0 and 100K for the pick 5. You can end up with a smaller number than the digits you're trying to pick.
+
+It would be easier to generate numbers between 0 and 9 and concatenate them at the end. I'm going to fix that now.
+
+
 
 
