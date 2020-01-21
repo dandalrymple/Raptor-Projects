@@ -18,6 +18,6 @@ After testing the Pick 2 and etc.,  I realized I'd goofed up a little by just tr
 
 It would be easier to generate numbers between 0 and 9 and concatenate them at the end. I'm going to fix that now.
 
-
+Fixed. The "new lotto generator with pick numbers" is the fixed version.
 
 
