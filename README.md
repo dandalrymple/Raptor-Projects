@@ -1,12 +1,10 @@
 # Raptor-Projects
-RAPTOR is a fun flow chart-based programming environment/"language." Here are some of my own projects or old homework assignments.
+RAPTOR is a fun flow chart-based programming environment/"language." I had a class that taught it and ALICE in the Fall of 2015. I had a lot more fun with RAPTOR.
 
-Lotto Generator.cs is the C# version of the code. The .cpp is the C++.
+Here are some of my own projects or old homework assignments.
 
-The Lotto Generator app started as a way for me to make my own quick pick numbers, since it seemed like the ones I'd get at stores weren't working for me. 
+One of the great things about RAPTOR is that it lets you generate C#, C++, Ada, and Java versions of its programs, as well as create standalone .exe files. The standalones require some .dll files to work correctly, and usually come in the same folder when the program is created.
 
-I was satisfied with my little program until I tested it more and forgot to check for repeat numbers. Whoops. So the fixed version is coming soon.
+Files with the .rap extension are for use with the RAPTOR environment and show the flow charts and other information when RAPTOR is used.
 
-The other program on here is a random stat generator for new Fallout 4 characters. I got tired of trying to figure out how to start  new characters and made this. 
 
-I'll definitely add more to this over time. RAPTOR is easy to use and fun for small ideas.
