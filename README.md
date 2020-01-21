@@ -9,3 +9,4 @@ I was satisfied with my little program until I tested it more and forgot to chec
 
 The other program on here is a random stat generator for new Fallout 4 characters. I got tired of trying to figure out how to start  new characters and made this. 
 
+I'll definitely add more to this over time. RAPTOR is easy to use and fun for small ideas.
